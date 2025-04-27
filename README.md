@@ -23,7 +23,7 @@ Dự án này tạo ra một hiệu ứng 3D của lá cờ Việt Nam với ani
 ### Hướng dẫn
 1. **Tải dự án**:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/Nguyen-Van-Chan/vietnam-flag-3d.git
    ```
 2. **Mở file `index.html`**:
    - Di chuyển vào thư mục dự án:
@@ -38,7 +38,7 @@ Dự án này tạo ra một hiệu ứng 3D của lá cờ Việt Nam với ani
 
 ## Cấu trúc thư mục
 ```
-<your-repo-name>/
+vietnam-flag-3d/
 ├── index.html      # File HTML chính chứa code Three.js
 └── README.md       # File hướng dẫn này
 ```
@@ -65,7 +65,7 @@ Dự án này tạo ra một hiệu ứng 3D của lá cờ Việt Nam với ani
 5. Tạo Pull Request trên GitHub.
 
 ## Liên hệ
-Nếu bạn có câu hỏi hoặc góp ý, vui lòng mở một issue trên GitHub hoặc liên hệ qua [email@example.com](mailto:email@example.com).
+Nếu bạn có câu hỏi hoặc góp ý, vui lòng mở một issue trên GitHub hoặc liên hệ qua Email: [support@techspherex.com]  
 
 ## Giấy phép
 Dự án này được cấp phép theo [MIT License](LICENSE).
